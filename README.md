@@ -6,7 +6,7 @@ Scripts should work without much fuss on similar ZFS default installation (the l
 
 *you can always modify them to suit your needs for another environment if you wish, obviously*
 
-Tested with v2.0.0-beta3
+Tested with zfsnap v2.0.0-beta3
 
 Scripts include:
 
@@ -21,7 +21,7 @@ Scripts include:
 
 Also includes example of crontab -e
 
-* Setup: 
+>Setup: 
 
 Install zfsnap to `/usr/local{sbin,share}` from https://github.com/zfsnap/zfsnap/releases
 
