@@ -1,8 +1,10 @@
-# scripts with examples of zfsnap usage
+# Scripts for simple zfsnap implementation on Ubuntu 19.10
 
-Written on Ubuntu 19.10 Desktop ZFS filesystem w/ default installer dataset layout 
+References Ubuntu 19.10 Desktop ZFS filesystem w/ default installer dataset layout 
 
 Scripts should work without much fuss on similar ZFS default installation (the layout you get when you are in the graphical installer and choose "ZFS" as filesystem)
+
+*you can always modify them to suit your needs for another environment if you wish, obviously*
 
 Tested with v2.0.0-beta3
 
