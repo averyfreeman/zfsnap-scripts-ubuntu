@@ -1,0 +1,5 @@
+0 1 * * * /home/username/scripts/zfsnap-boot.sh &>> /var/log/zfsnap/zfsnap.log
+1 1 * * * /home/username/scripts/zfsnap-root.sh &>> /var/log/zfsnap/zfsnap.log
+0 * * * * /home/username/scripts/zfsnap-userdata-hourly.sh &>> /var/log/zfsnap/zfsnap.log
+2 1 * * * /home/username/scripts/zfsnap-userdata-daily.sh &>> /var/log/zfsnap/zfsnap.log
+0 1 * * * /home/username/scripts/zfsnap-destroy-expired.sh &>> /var/log/zfsnap/zfsnap.log
