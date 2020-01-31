@@ -47,3 +47,5 @@ exit
 ````
 
 More info about zfsnap at https://www.zfsnap.org/
+
+Note: I noticed only manually created snapshots are visible in GRUB history when booting, presumably due to limitations with zfsnap creating hooks for zfs-initramfs.  Therefore I am creating a set of scripts to manually create snapshots through crontab so they will be available through GRUB history (e.g. beadm).
