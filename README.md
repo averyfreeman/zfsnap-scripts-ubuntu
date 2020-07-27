@@ -1,4 +1,4 @@
-# Scripts for simple zfsnap implementation on Ubuntu 19.10
+# Scripts for simple zfsnap implementation on Ubuntu Desktop >= 19.10 (default zfs-root config) 
 
 References Ubuntu 19.10+ Desktop ZFS filesystem w/ default installer dataset layout 
 
