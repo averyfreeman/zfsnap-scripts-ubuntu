@@ -21,7 +21,7 @@ Scripts include:
 
 Also includes example of crontab -e
 
-|Setup: 
+**Setup:** 
 
 Install zfsnap to `/usr/local{sbin,share}` from https://github.com/zfsnap/zfsnap/releases
 
