@@ -1,3 +1,5 @@
+### Update: [ZSys](https://github.com/ubuntu/zsys) essentially makes these scripts obsolete on Ubuntu, so I am archiving this repo.  I may re-open it in the future for another platform.
+
 # Scripts for simple zfsnap implementation on Ubuntu Desktop >= 19.10 (default zfs-root config) 
 
 References Ubuntu 19.10+ Desktop ZFS filesystem w/ default installer dataset layout 
